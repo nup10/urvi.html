@@ -1,0 +1,19 @@
+html{
+    background-color: peachpuff;
+}
+h1{
+    font-size: 3rem;
+    color: black;
+}
+#div{
+    font-family: 'Bangers', cursive;
+    text-align: center;
+
+    margin-top: 100px;
+
+
+}
+#img{
+    border: 10px solid white;
+    width: 100%;
+}
